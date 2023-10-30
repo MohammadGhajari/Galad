@@ -46,7 +46,7 @@ If users encounter problems, they can refer to the frequently asked questions se
 ## Technologies Used
 
 - Used React library. Redux for state management. React icons and Styled component for styling elements. React Toast for notifications.
-- Used Google Firebase service for implimenting backend and database.
+- Used Google Firebase service for implementing backend and database.
 
 
 ## Contributing

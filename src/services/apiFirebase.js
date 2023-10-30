@@ -1,23 +1,14 @@
 import {ref, deleteObject } from "firebase/storage";
 import toast from "react-hot-toast";
 import {addProfile} from "../StateManagement/UserSlice.js";
-// const firebaseConfig = {
-//   apiKey: "AIzaSyBACWhD91wET3fvYUT4dAG01sBnKoh3a6I",
-//   authDomain: "test-9808f.firebaseapp.com",
-//   projectId: "test-9808f",
-//   storageBucket: "test-9808f.appspot.com",
-//   messagingSenderId: "552620124175",
-//   appId: "1:552620124175:web:5d91bd272096a388849b7a",
-//   measurementId: "G-S2HQ7D49BN"
-// };
+
 const firebaseConfig = {
-  apiKey: "AIzaSyCTutFCQSvPNy42bRjnCDqgfhEqxjdg9ps",
-  authDomain: "galad-42e6f.firebaseapp.com",
-  projectId: "galad-42e6f",
-  storageBucket: "galad-42e6f.appspot.com",
-  messagingSenderId: "804474513109",
-  appId: "1:804474513109:web:775ea6ad3b4637580aa45c",
-  measurementId: "G-ZBHYEVY6VS"
+  apiKey: "AIzaSyDV9Yk9MYkZ5Adz_sBPeELmU6k2RyGMBHE",
+  authDomain: "galad-project.firebaseapp.com",
+  projectId: "galad-project",
+  storageBucket: "galad-project.appspot.com",
+  messagingSenderId: "991438559924",
+  appId: "1:991438559924:web:609b354b53ebec3242d5e1"
 };
 
 

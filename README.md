@@ -4,13 +4,12 @@
 1. Introduction
 2. Features
 3. Technologies Used
-4. Installation and Setup
-5. Contributing
-6. License
-7. Contact Information
+4. Contributing
+5. Contact Information
 
 ## Introduction
-Galad is a comprehensive web application designed for book enthusiasts. It allows users to search for books, manage their personal book lists, and much more.
+Galad is a great web application designed for book enthusiasts. It allows users to search for books, manage their personal book lists, and much more.
+
 
 ## Features
 
@@ -46,27 +45,20 @@ If users encounter problems, they can refer to the frequently asked questions se
 
 ## Technologies Used
 
-- Frontend: React, Redux, Styled Components
-- Icons: React Icons
-- Notifications: React Toast
-- Backend: Google Firebase
+- Used React library. Redux for state management. React icons and Styled component for styling elements. React Toast for notifications.
+- Used Google Firebase service for implimenting backend and database.
 
-## Installation and Setup
-
-Please provide instructions on how to install and setup your project here.
 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
-
-## License
-
-MIT
 
 ## Contact Information
 
+
 For any queries or suggestions, feel free to contact me via Telegram or Instagram.
 
-Visit Galad at vermillion-pastelito-88261b.netlify.app.
+</br>
+
+### Visit Galad at [Galad](https://galad.netlify.app/)

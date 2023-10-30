@@ -150,7 +150,7 @@ export default function PersonInformation() {
     localStorage.setItem('user', JSON.stringify(newLocalHostData));
     updateUser(userName, data);
     toast.success('Changes saved successfully')
-    navigate('/settings')
+    navigate('/')
   }
 
   function handleDiscard(e) {

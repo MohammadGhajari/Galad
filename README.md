@@ -61,4 +61,4 @@ For any queries or suggestions, feel free to contact me via Telegram or Instagra
 
 </br>
 
-### Visit Galad at [Galad](https://galad.netlify.app/)
+### Visit at [Galad](https://galad.netlify.app/)
